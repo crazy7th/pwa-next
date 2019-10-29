@@ -23,7 +23,7 @@ class Index extends React.Component {
                     <title>My page title</title>
                     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                     <meta name="theme-color" content="#000000" />
-                    <link rel="shortcut icon" href="/static/favicon.ico">
+                    <link rel="shortcut icon" href="/static/favicon.ico" />
                     <Manifest
                         // path for manifest will be deploying
                         href='/static/manifest.json'
