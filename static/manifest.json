@@ -3,7 +3,7 @@
   "short_name": "SPL",
   "theme_color": "#ff4d4d",
   "background_color": "#f7f7f7",
-  "display": "browser",
+  "display": "fullscreen",
   "Scope": "/",
   "start_url": "/",
   "icons": [
