@@ -65,3 +65,8 @@ typings/
 
 # Package installation
 package-lock.json
+
+# build directory
+out
+# deploy server
+.netlify
