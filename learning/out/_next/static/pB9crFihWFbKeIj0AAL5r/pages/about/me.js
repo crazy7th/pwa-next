@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"9pBI":function(n,t,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/about/me",function(){return o("GpRG")}])},GpRG:function(n,t,o){"use strict";o.r(t);var u=o("q1tI"),e=o.n(u).a.createElement;t.default=function(){return e("div",null,"hallo")}}},[["9pBI",1,0]]]);
