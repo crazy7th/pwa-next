@@ -10340,7 +10340,7 @@ var index = function index() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!******************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Frizkymaulana%2FDocuments%2FGitHub%2Fpwa-next%2Flearning%2Fpages%2Findex.js ***!
   \******************************************************************************************************************************************************/
@@ -10363,5 +10363,5 @@ module.exports = dll_e9ad7d891b372a4221cf;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
