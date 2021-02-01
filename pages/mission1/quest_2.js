@@ -13,7 +13,7 @@ const Quest1 = () => (
             </li>
             <li>
                 Setelah itu, pada bagian yang akan dihubungkan (biasanya berupa tags button & a) panggil dengan cara 
-                <pre>
+                {/* <pre>
                     <code>
                         <Link href="/your_url">
                             <a>Hyperlink Kamu</a>
@@ -27,7 +27,7 @@ const Quest1 = () => (
                             <button>Button Kamu</button>
                         </Link>
                     </code>
-                </pre>
+                </pre> */}
             </li>
         </ul>
 
